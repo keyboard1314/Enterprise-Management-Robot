@@ -4,7 +4,7 @@ on:
   watch:
     types: [started]
   schedule:
-    - cron: '16 11 * * *'
+    - cron: '35 11 * * *'
 
 jobs:
   bot:
